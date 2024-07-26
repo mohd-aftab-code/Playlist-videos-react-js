@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Aftab-Portfolio-ReactJs/static/css/main.237ac51a.css",
+    "main.js": "/Aftab-Portfolio-ReactJs/static/js/main.e604af11.js",
+    "static/js/453.7af8c795.chunk.js": "/Aftab-Portfolio-ReactJs/static/js/453.7af8c795.chunk.js",
+    "index.html": "/Aftab-Portfolio-ReactJs/index.html",
+    "main.237ac51a.css.map": "/Aftab-Portfolio-ReactJs/static/css/main.237ac51a.css.map",
+    "main.e604af11.js.map": "/Aftab-Portfolio-ReactJs/static/js/main.e604af11.js.map",
+    "453.7af8c795.chunk.js.map": "/Aftab-Portfolio-ReactJs/static/js/453.7af8c795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237ac51a.css",
+    "static/js/main.e604af11.js"
+  ]
+}
